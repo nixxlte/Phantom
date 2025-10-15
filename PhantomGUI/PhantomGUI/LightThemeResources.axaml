@@ -1,0 +1,10 @@
+<ResourceDictionary xmlns="https://github.com/avaloniaui"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Color x:Key="PanelBackgroundColor" ThemeVariant="Light">WhiteSmoke</Color>
+    <Styles xmlns="https://github.com/avaloniaui"
+            xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+        <Style Selector="Border" ThemeVariant="Light">
+            <Setter Property="Background" Value="WhiteSmoke"/>
+        </Style>
+    </Styles>
+</ResourceDictionary>
