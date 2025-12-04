@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../PhantomMain.Desktop/PhantomMain.Desktop.csproj" />
+  <Project Path="PhantomMain.csproj" />
+</Solution>
